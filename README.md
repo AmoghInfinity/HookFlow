@@ -2,7 +2,7 @@
 
 **HookFlow** is a full-stack AI-powered content generation engine that turns simple ideas into **high-engagement short-form content** — hooks, scripts, captions, hashtags, and shot lists — all in seconds.
 
-Built for creators, marketers, and anyone producing content for **Instagram Reels**, **YouTube Shorts**, and **TikTok**.
+Built for creators, marketers, and anyone producing content for **Instagram Reels** and **YouTube Shorts**
 
 🔗 **[Try the Live Demo →](https://hook-flow-sand.vercel.app/)**
 
