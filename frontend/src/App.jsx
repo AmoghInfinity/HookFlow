@@ -2,7 +2,7 @@ import { useState, useCallback, useRef } from 'react'
 import InputForm from './components/InputForm'
 import OutputPanel from './components/OutputPanel'
 
-const API_URL = 'http://127.0.0.1:8000/generate'
+const API_URL = `${import.meta.env.VITE_API_URL || 'http://127.0.0.1:8000'}/generate`
 
 export default function App() {
   const [data, setData] = useState(null)
